@@ -20,7 +20,7 @@ Whether you're managing household expenses, running a small business, or simply 
 
 Fully optimized for **macOS Sonoma, Ventura, Monterey, and older versions**, CheckBook runs smoothly on both Intel and Apple Silicon Macs. It integrates with iCloud for secure data synchronization across your devices, ensuring your financial information is always up to date.
 
-![CheckBook Pro Mac Screenshot](https://static.macupdate.com/screenshots/355823/m/phpkzfouz-screenshot.png?v=1738916425)
+![CheckBook Pro Mac Screenshot](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnRS6m9sDOsSIrENIYQaK_PiVL9hkzJ7-3FA&s)
 
 ---
 
